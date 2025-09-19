@@ -1,0 +1,16 @@
+{
+"name": "cicd-challenge",
+"version": "0.1.0",
+"main": "app.js",
+"scripts": {
+"start": "node app.js",
+"test": "mocha"
+},
+"dependencies": {
+"express": "^4.18.0"
+},
+"devDependencies": {
+"mocha": "^10.0.0",
+"supertest": "^6.0.0"
+}
+}
